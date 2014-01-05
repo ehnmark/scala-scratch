@@ -1,2 +1,1 @@
-scala-scratch
-=============
+Nothing to see here. Carry on.
